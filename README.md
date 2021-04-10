@@ -16,9 +16,7 @@ My career goal is to bring individual and business ideas to reality through what
 Technologies I enjoy working with include .Net Frameworks (Backend: REST &amp; Graphql API), Angular 2+ (Frontend), and Laravel PHP (Fullstack).
 
 
-## Find me around the web 🌎:
-<a href="https://gmattworld.com"><img align="left" width="150" style="padding-right:20px;" src="https://raw.githubusercontent.com/gmattworld/gmattworld/main/footer.png"></a>
+## Find me around the web:
 - **Website** <a href="https://gmattworld.com">gmattworld.com</a>
 - **Twitter** <a href="https://twitter.com/Gmattworld"> @gmattworld</a>
 - **LinkedIn** <a href="https://www.linkedin.com/in/gmattworld/">@gmattworld</a>
-
