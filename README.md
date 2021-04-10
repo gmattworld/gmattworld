@@ -17,8 +17,8 @@ Technologies I enjoy working with include .Net Frameworks (Backend: REST &amp; G
 
 
 ## Find me around the web 🌎:
-<a href="https://gmattworld.com"><img align="left" width="150" src="https://raw.githubusercontent.com/gmattworld/gmattworld/main/footer.png"></a>
+<a href="https://gmattworld.com"><img align="left" width="150" style="padding-right:20px;" src="https://raw.githubusercontent.com/gmattworld/gmattworld/main/footer.png"></a>
 - **Website** <a href="https://gmattworld.com">gmattworld.com</a>
-- **Twitter** <a href="https://twitter.com/Gmattworld"> @gmattworld</a> 🏓
-- **LinkedIn** <a href="https://www.linkedin.com/in/gmattworld/">@gmattworld</a> 💼
+- **Twitter** <a href="https://twitter.com/Gmattworld"> @gmattworld</a>
+- **LinkedIn** <a href="https://www.linkedin.com/in/gmattworld/">@gmattworld</a>
 
