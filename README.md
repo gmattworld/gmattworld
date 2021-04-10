@@ -13,3 +13,12 @@ I create human-centred web and mobile solutions that are fast, easy to use, and 
 
 My career goal is to bring individual and business ideas to reality through what I know how to do best. With this, I wake up each day thinking about how I can make the world around me better.
 
+Technologies I enjoy working with include .Net Frameworks (Backend: REST &amp; Graphql API), Angular 2+ (Frontend), and Laravel PHP (Fullstack).
+
+
+## Find me around the web 🌎:
+<a href="https://gmattworld.com"><img align="left" width="150" src="https://raw.githubusercontent.com/gmattworld/gmattworld/main/footer.png"></a>
+- **Website** <a href="https://gmattworld.com">gmattworld.com</a>
+- **Twitter** <a href="https://twitter.com/Gmattworld"> @gmattworld</a> 🏓
+- **LinkedIn** <a href="https://www.linkedin.com/in/gmattworld/">@gmattworld</a> 💼
+
