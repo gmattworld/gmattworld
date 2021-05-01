@@ -16,6 +16,19 @@ My career goal is to bring individual and business ideas to reality through what
 Technologies I enjoy working with include .Net Frameworks (Backend: REST &amp; Graphql API), Angular 2+ (Frontend), and Laravel PHP (Fullstack).
 
 
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gmattworld&show_icons=true&theme=dark" alt="gmattworld" />
+<div/>
+<br />
+  
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmattworld&layout=compact&hide=html&theme=dark" alt="gmattworld" />
+<div/>
+<br />
+
+![Visitors since 11 Nov 2020](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=gmattworld&repo=gmattworld&countColor=%237B1E7A)
+
+
 ## Find me around the web:
 - **Website** <a href="https://gmattworld.com">gmattworld.com</a>
 - **Twitter** <a href="https://twitter.com/Gmattworld"> @gmattworld</a>
